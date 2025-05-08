@@ -1,0 +1,9 @@
+{
+  "urls": [
+    "https://api.github.com",
+    "https://jsonplaceholder.typicode.com/posts",
+    "https://dog.ceo/api/breeds/image/random",
+    "https://api.coindesk.com/v1/bpi/currentprice.json",
+    "https://catfact.ninja/fact"
+  ]
+}

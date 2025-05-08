@@ -1,0 +1,66 @@
+{
+  "https://api.github.com": {
+    "status": "online",
+    "lastChecked": "2025-05-08T00:00:01.282Z",
+    "uptimeCount": 2,
+    "totalChecks": 2,
+    "avgResponseTime": 303,
+    "failures": [],
+    "responseTimes": [
+      319,
+      287
+    ]
+  },
+  "https://jsonplaceholder.typicode.com/posts": {
+    "status": "online",
+    "lastChecked": "2025-05-08T00:00:01.640Z",
+    "uptimeCount": 2,
+    "totalChecks": 2,
+    "avgResponseTime": 412.5,
+    "failures": [],
+    "responseTimes": [
+      182,
+      643
+    ]
+  },
+  "https://dog.ceo/api/breeds/image/random": {
+    "status": "online",
+    "lastChecked": "2025-05-08T00:00:01.843Z",
+    "uptimeCount": 2,
+    "totalChecks": 2,
+    "avgResponseTime": 845.5,
+    "failures": [],
+    "responseTimes": [
+      848,
+      843
+    ]
+  },
+  "https://api.coindesk.com/v1/bpi/currentprice.json": {
+    "status": "offline",
+    "lastChecked": "2025-05-07T23:55:00.744Z",
+    "uptimeCount": 0,
+    "totalChecks": 1,
+    "avgResponseTime": 91,
+    "failures": [
+      {
+        "time": "2025-05-07T23:55:00.744Z",
+        "error": "getaddrinfo ENOTFOUND api.coindesk.com"
+      }
+    ],
+    "responseTimes": [
+      91
+    ]
+  },
+  "https://catfact.ninja/fact": {
+    "status": "online",
+    "lastChecked": "2025-05-08T00:00:01.658Z",
+    "uptimeCount": 2,
+    "totalChecks": 2,
+    "avgResponseTime": 525.5,
+    "failures": [],
+    "responseTimes": [
+      395,
+      656
+    ]
+  }
+}

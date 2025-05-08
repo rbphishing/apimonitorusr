@@ -1,0 +1,25 @@
+{
+  "intervalMinutes": 5,
+  "requestTimeoutMs": 5000,
+  "logFile": "./monitor.log",
+  "statusFile": "./status.json",
+  "logLevel": "info",
+  "email": {
+    "enabled": false,
+    "smtp": {
+      "host": "smtp.example.com",
+      "port": 587,
+      "secure": false
+    },
+    "auth": {
+      "user": "user@example.com",
+      "pass": "password"
+    },
+    "from": "monitor@example.com",
+    "to": "alerts@example.com"
+  },
+  "backoff": {
+    "initialDelayMs": 1000,
+    "maxDelayMs": 60000
+  }
+}

@@ -1,0 +1,15 @@
+[2025-05-07T23:59:35.198Z] [INFO] Stopping monitoring...
+[2025-05-08T00:00:00.994Z] [INFO] Check started at 21:00:00
+[2025-05-08T00:00:01.282Z] [INFO] https://api.github.com online (Status: 200, Time: 287ms)
+[2025-05-08T00:00:01.640Z] [INFO] https://jsonplaceholder.typicode.com/posts online (Status: 200, Time: 643ms)
+[2025-05-08T00:00:01.658Z] [INFO] https://catfact.ninja/fact online (Status: 200, Time: 656ms)
+[2025-05-08T00:00:01.843Z] [INFO] https://dog.ceo/api/breeds/image/random online (Status: 200, Time: 843ms)
+[2025-05-08T00:00:01.843Z] [INFO] Check completed in 849ms at 21:00:01
+[2025-05-08T00:07:07.659Z] [INFO] Configuration loaded from config.json
+[2025-05-08T00:07:07.661Z] [INFO] Monitoring 5 URLs every 5 minutes
+[2025-05-08T00:09:46.115Z] [INFO] Configuration loaded from config.json
+[2025-05-08T00:09:46.117Z] [INFO] Monitoring 5 URLs every 5 minutes
+[2025-05-08T00:12:07.965Z] [INFO] Configuration loaded from config.json
+[2025-05-08T00:12:07.967Z] [INFO] Monitoring 5 URLs every 5 minutes
+[2025-05-08T02:30:23.845Z] [INFO] Configuration loaded from config.json
+[2025-05-08T02:30:23.847Z] [INFO] Monitoring 5 URLs every 5 minutes
